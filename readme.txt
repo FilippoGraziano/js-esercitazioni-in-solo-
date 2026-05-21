@@ -1,7 +1,7 @@
 # palestra!
 
 ## snack
-1. Data una stringa e un nome, restituisci un saluto personalizzato.
+1. Data una stringa e un nome, restituisci un saluto personalizzato. (Complete)
 2. Restituisci un'array con le iniziali di ogni nome in un array di stringhe.
 3. Filtra un array di nomi mantenendo solo quelli che iniziano con una lettera specifica.
 4. Conta il numero di vocali in una stringa.
