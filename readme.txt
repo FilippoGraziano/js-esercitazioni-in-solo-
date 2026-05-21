@@ -2,7 +2,7 @@
 
 ## snack
 1. Data una stringa e un nome, restituisci un saluto personalizzato. (Complete)
-2. Restituisci un'array con le iniziali di ogni nome in un array di stringhe.
+2. Restituisci un'array con le iniziali di ogni nome in un array di stringhe. (Complete)
 3. Filtra un array di nomi mantenendo solo quelli che iniziano con una lettera specifica.
 4. Conta il numero di vocali in una stringa.
 5. Restituisci il nome più lungo da un array di stringhe.
