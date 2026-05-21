@@ -5,7 +5,7 @@
 2. Restituisci un'array con le iniziali di ogni nome in un array di stringhe. (Complete)
 3. Filtra un array di nomi mantenendo solo quelli che iniziano con una lettera specifica. (Complete)
 4. Conta il numero di vocali in una stringa. (Complete)
-5. Restituisci il nome più lungo da un array di stringhe.
+5. Restituisci il nome più lungo da un array di stringhe. (Complete)
 
 ## umano
 1. Determina se un numero è pari.
