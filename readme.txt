@@ -11,7 +11,7 @@
 1. Determina se un numero è pari. (Complete)
 2. Determina se una stringa è vuota. (Complete)
 3. Restituisci la lunghezza di una stringa. (Complete)
-4. Restituisci il doppio di un numero.
+4. Restituisci il doppio di un numero. (Complete)
 5. Determina se un numero è positivo.
 6. Concatena due stringhe.
 7. Determina se un array è vuoto.
