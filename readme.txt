@@ -9,7 +9,7 @@
 
 ## umano
 1. Determina se un numero è pari. (Complete)
-2. Determina se una stringa è vuota.
+2. Determina se una stringa è vuota. (Complete)
 3. Restituisci la lunghezza di una stringa.
 4. Restituisci il doppio di un numero.
 5. Determina se un numero è positivo.
