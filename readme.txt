@@ -15,7 +15,7 @@
 5. Determina se un numero è positivo. (Complete)
 6. Concatena due stringhe. (Complete)
 7. Determina se un array è vuoto. (Complete)
-8. Restituisci il primo elemento di un array.
+8. Restituisci il primo elemento di un array. (Complete)
 9. Restituisci la somma di due numeri.
 10. Restituisci il valore assoluto di un numero.
 
