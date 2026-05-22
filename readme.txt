@@ -8,7 +8,7 @@
 5. Restituisci il nome più lungo da un array di stringhe. (Complete)
 
 ## umano
-1. Determina se un numero è pari.
+1. Determina se un numero è pari. (Complete)
 2. Determina se una stringa è vuota.
 3. Restituisci la lunghezza di una stringa.
 4. Restituisci il doppio di un numero.
