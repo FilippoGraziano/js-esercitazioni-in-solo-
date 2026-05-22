@@ -17,7 +17,7 @@
 7. Determina se un array è vuoto. (Complete)
 8. Restituisci il primo elemento di un array. (Complete)
 9. Restituisci la somma di due numeri. (Complete)
-10. Restituisci il valore assoluto di un numero.
+10. Restituisci il valore assoluto di un numero. (Complete)
 
 ## esperto
 1. Determina se un numero è primo.
