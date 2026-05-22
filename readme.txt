@@ -13,7 +13,7 @@
 3. Restituisci la lunghezza di una stringa. (Complete)
 4. Restituisci il doppio di un numero. (Complete)
 5. Determina se un numero è positivo. (Complete)
-6. Concatena due stringhe.
+6. Concatena due stringhe. (Complete)
 7. Determina se un array è vuoto.
 8. Restituisci il primo elemento di un array.
 9. Restituisci la somma di due numeri.
