@@ -20,7 +20,7 @@
 10. Restituisci il valore assoluto di un numero. (Complete)
 
 ## esperto
-1. Determina se un numero è primo.
+1. Determina se un numero è primo. (Complete)
 2. Restituisci l'indice di un elemento in un array.
 3. Filtra un array mantenendo solo i numeri pari.
 4. Determina se una stringa è un palindromo.
