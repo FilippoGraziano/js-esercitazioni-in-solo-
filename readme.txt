@@ -22,7 +22,7 @@
 ## esperto
 1. Determina se un numero è primo. (Complete)
 2. Restituisci l'indice di un elemento in un array. (Complete)
-3. Filtra un array mantenendo solo i numeri pari.
+3. Filtra un array mantenendo solo i numeri pari. (Complete)
 4. Determina se una stringa è un palindromo.
 5. Restituisci la somma di tutti gli elementi di un array.
 6. Determina se due array hanno gli stessi elementi.
