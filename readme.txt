@@ -25,7 +25,7 @@
 3. Filtra un array mantenendo solo i numeri pari. (Complete)
 4. Determina se una stringa è un palindromo. (Complete)
 5. Restituisci la somma di tutti gli elementi di un array. (Complete)
-6. Determina se due array hanno gli stessi elementi.
+6. Determina se due array hanno gli stessi elementi. (Complete)
 7. Raddoppia ogni elemento di un array.
 8. Ordina un array di numeri.
 9. Restituisci il numero più grande di un array.
