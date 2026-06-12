@@ -28,7 +28,7 @@
 6. Determina se due array hanno gli stessi elementi. (Complete)
 7. Raddoppia ogni elemento di un array. (Complete)
 8. Ordina un array di numeri. (Completato, ma non da solo)
-9. Restituisci il numero più grande di un array.
+9. Restituisci il numero più grande di un array. (Complete)
 10. Determina se un array contiene un numero specifico.
 
 ## maestro
