@@ -4,13 +4,17 @@ const nums = [10, 2, 3, 5, 6, 20, 9, 8, 4, 7, 1, 21, 15, 13, 30, 40, 35];
 
 const orderNumOfArr = arr => {
 
-    if (arr.length === 0) return [];
-
-    const orderedArr = [arr[0]];
+    const orderedArr = [];
 
     for (let i = 0; i < arr.length; i++) {
 
         console.log(`iterazione i: ${arr[i]}`)
+
+        if (orderedArr.length === 0) {
+
+            orderedArr.push(arr[i]);
+            continue;
+        }
 
         for (let j = 0; j < orderedArr.length; j++) {
 
