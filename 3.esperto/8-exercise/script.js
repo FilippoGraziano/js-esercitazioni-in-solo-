@@ -4,6 +4,8 @@ const nums = [10, 2, 3, 5, 6, 20, 9, 8, 4, 7, 1, 21, 15, 13, 30, 40, 35];
 
 const orderNumOfArr = arr => {
 
+    if (arr.length === 0) return [];
+
     const orderedArr = [arr[0]];
 
     for (let i = 0; i < arr.length; i++) {
