@@ -19,29 +19,35 @@ const wordCounter = string => {
 
     const cleanString = splitWordOfString(string);
 
-    const count = {};
+    const countWords = {};
+    const words = [];
     for (let i = 0; i < cleanString.length; i++) {
 
-        if (count[`${cleanString[i]}`] === undefined) {
+        if (countWords[`${cleanString[i]}`] === undefined) {
 
-            count[`${cleanString[i]}`] = 1
+            words.push(cleanString[i])
+            countWords[`${cleanString[i]}`] = 1
         } else {
 
-            count[`${cleanString[i]}`]++
+            countWords[`${cleanString[i]}`]++
         };
     };
 
-    return count;
+    return [words, countWords];
 }
 
 const areAnagrams = (str1, str2) => {
 
-    const countOfString1 = wordCounter(str1);
-    const countOfString2 = wordCounter(str2);
+    const [words1, countWords1] = wordCounter(str1);
+    const [words2, countWords2] = wordCounter(str2);
 
-    const alfabeto = Array.from({ length: 26 }, (_, i) => String.fromCharCode(97 + i));
+    for (let i = 0; i < words1.length; i++) {
 
-    return countOfString1;
+        if (countWords1[`${words1[i]}`] === countWords2[`${words1[i]}`]) continue;
+        else return `No "${str1}" and "${str2}" are not anagrams :(`; 
+    };
+
+    return `Yes "${str1}" and "${str2}" are anagrams! :)`;
 }
 
 console.log(areAnagrams(str1, str2));
