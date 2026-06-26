@@ -32,7 +32,7 @@
 10. Determina se un array contiene un numero specifico. (Complete)
 
 ## maestro
-1. Determina se due stringhe sono anagrammi.
+1. Determina se due stringhe sono anagrammi. (Complete)
 2. Restituisci il k-esimo elemento più grande di un array.
 3. Determina se un numero è un numero di Fibonacci.
 4. Restituisci le coppie di elementi di un array che sommano a un target.
