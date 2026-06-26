@@ -33,7 +33,7 @@
 
 ## maestro
 1. Determina se due stringhe sono anagrammi. (Complete)
-2. Restituisci il k-esimo elemento più grande di un array.
+2. Restituisci il k-esimo elemento più grande di un array. (Complete)
 3. Determina se un numero è un numero di Fibonacci.
 4. Restituisci le coppie di elementi di un array che sommano a un target.
 5. Determina se un array può essere partizionato in due sottoinsiemi con somma uguale.
